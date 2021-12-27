@@ -10,6 +10,8 @@
 #include <math.h>
 #include <string.h>
 
+int hhhhh
+
 #define DIM                  2                                         //次元数
 #define PARTICLE_DISTANCE    0.025                                     //初期粒子間距離
 #define DT                   0.001                                     //時間刻み幅
