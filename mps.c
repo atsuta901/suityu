@@ -11,6 +11,7 @@
 #include <string.h>
 
 int hhhhh
+int gdsgfdfd
 
 #define DIM                  2                                         //次元数
 #define PARTICLE_DISTANCE    0.025                                     //初期粒子間距離
