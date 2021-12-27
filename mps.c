@@ -12,6 +12,7 @@
 
 int hhhhh
 int ggg
+int jjj
 
 #define DIM                  2                                         //次元数
 #define PARTICLE_DISTANCE    0.025                                     //初期粒子間距離
